@@ -1,4 +1,4 @@
-Node webapp powering <http://upload.openspending.org/> which providers upload and a
+Node js webapp powering <http://upload.openspending.org/> which providers upload and a
 general interface to <http://data.openspending.org/>.
 
 # For Developers
